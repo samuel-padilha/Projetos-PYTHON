@@ -1,4 +1,4 @@
-# Biblioteca do sistema operacional
+
 import os
 
 # Biblioteca que faz requisições http
